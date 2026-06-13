@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Données générées
+*.duckdb
+data/processed/*.csv
+
+# Temp
+structure.txt
